@@ -5,7 +5,7 @@ HOW TO RUN THIS PROJECT
   
   Open Terminal and Execute Following Commands :
   
-	python -m pip install -r requirements. txt
+	* python -m pip install -r requirements. txt
 
 Download This Project Zip Folder and Extract it
 
