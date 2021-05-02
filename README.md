@@ -18,4 +18,5 @@ Move to project folder in Terminal. Then run following Commands :
 	py manage.py runserver
 
 Now enter following URL in Your Browser Installed On Your Pc
-http://127.0.0.1:8000/
+
+	http://127.0.0.1:8000/
