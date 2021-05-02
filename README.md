@@ -1,5 +1,5 @@
 # E-Library-Management-system
-HOW TO RUN THIS PROJECT
+#HOW TO RUN THIS PROJECT
 
  * Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
   
