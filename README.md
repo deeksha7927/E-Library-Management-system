@@ -34,4 +34,9 @@
 - Can view books issued by them with its details
 - Can issue a new book.
 - Can search for books.
----	  
+---	
+
+## POINTS TO BE NOTED:
+- Click on "E-Library" in the navigation bar to go to home page.
+- Contact Us page is currently not fully responsive.
+
