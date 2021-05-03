@@ -20,3 +20,18 @@
 * Now enter following URL in Your Browser Installed On Your Pc
 
 	  http://127.0.0.1:8000/
+	  
+	  
+## Functions
+### Admin
+- Create Admin account and Login.
+- Can Add and View books in the database.
+- Can view Fine
+- Can View users that are registered into the system.
+
+### User
+- Create account and Login.
+- Can view books issued by them with its details
+- Can issue a new book.
+- Can search for books.
+---	  
