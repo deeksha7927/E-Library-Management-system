@@ -39,7 +39,18 @@
 ## POINTS TO BE NOTED:
 - Click on "E-Library" in the navigation bar to go to home page.
 - Contact Us page is currently not fully responsive.
-
+<h3>Home Page</h3>
+ <div align="center">
+ <img src="images/home.JPG" />
+  </div>
+ <h3>Meditation</h3>
+ <div align="center">
+ <img src="images/Adminpg.JPG" />
+ </div>
+ <h3>Blog</h3>
+ <div align="center">
+ <img src= "images/Studentpg.JPG"/>
+ </div>
 <h3> 🖲️Tech Stack🖱</h3>
  
  * Frontend (HTML,CSS,JS)
