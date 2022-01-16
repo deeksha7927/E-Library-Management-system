@@ -40,3 +40,8 @@
 - Click on "E-Library" in the navigation bar to go to home page.
 - Contact Us page is currently not fully responsive.
 
+<h3> 🖲️Tech Stack🖱</h3>
+ 
+ * Frontend (HTML,CSS,JS)
+ * Backend(Django,Python,SQL)
+
