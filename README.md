@@ -43,11 +43,11 @@
  <div align="center">
  <img src="static/images/home.JPG" />
   </div>
- <h3>Meditation</h3>
+ <h3>Adim Home Page</h3>
  <div align="center">
  <img src="static/images/Adminpg.JPG" />
  </div>
- <h3>Blog</h3>
+ <h3>User Home Page</h3>
  <div align="center">
  <img src= "static/images/Studentpg.JPG"/>
  </div>
