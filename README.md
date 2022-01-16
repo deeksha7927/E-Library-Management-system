@@ -41,15 +41,15 @@
 - Contact Us page is currently not fully responsive.
 <h3>Home Page</h3>
  <div align="center">
- <img src="images/home.JPG" />
+ <img src="static/images/home.JPG" />
   </div>
  <h3>Meditation</h3>
  <div align="center">
- <img src="images/Adminpg.JPG" />
+ <img src="static/images/Adminpg.JPG" />
  </div>
  <h3>Blog</h3>
  <div align="center">
- <img src= "images/Studentpg.JPG"/>
+ <img src= "static/images/Studentpg.JPG"/>
  </div>
 <h3> 🖲️Tech Stack🖱</h3>
  
